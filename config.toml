@@ -1,4 +1,4 @@
-baseurl = "https://zhaohuabing.com"
+baseurl = "https://vigorous-colden-92775d.netlify.app/"
 title = "Huabing Blog"
 theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"
